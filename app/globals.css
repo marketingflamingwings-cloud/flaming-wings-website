@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800;900&family=Barlow+Condensed:wght@600;700;800;900&display=swap');
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #111111; color: #ffffff; font-family: 'Barlow', sans-serif; }
+a { color: inherit; }
+button, input, textarea { font-family: inherit; }
